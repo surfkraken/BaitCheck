@@ -6,7 +6,7 @@ Life is short, and YouTube has a bottomless supply of thumbnails promising life-
 
 ## Install the Shortcut
 
-[Download BaitCheck](https://www.icloud.com/shortcuts/e1377dff8e084efcbdf93827e8d87f25)
+[Download BaitCheck](https://www.icloud.com/shortcuts/93709a3cb3544a3481f0aef37f058566)
 
 ## Requirements
 
